@@ -1,0 +1,21 @@
+{
+  "name": "McKenzies_Bower",
+  "description": "BowerGruntTasks",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-cli": "^0.1.13"
+  },
+  "dependencies": {
+    "font-awesome": "fontawesome#*",
+    "bootstrap": "*"
+  },
+  "authors": [
+    "mcgi0145 <sk8mg@hotmail.com>"
+  ],
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
